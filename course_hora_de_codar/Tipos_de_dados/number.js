@@ -3,6 +3,9 @@
     esse tipo é chamado de Number. os valores NaN (not a number), +infinity, e -infinity
     também fazem parte desse tipo de dado.
 
+    * Se declararmos um número entre aspas, esse valor vai ser do tipo string (texto), 
+    e não um número.
+
     * O comando typeof serve para verificarmos o tipo de uma variavel.
 */
 
