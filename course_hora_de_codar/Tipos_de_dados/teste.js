@@ -1,2 +1,1 @@
-var nome;
-console.log(typeof nome)
+const nome = undefined;
