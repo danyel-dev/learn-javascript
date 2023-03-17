@@ -85,4 +85,8 @@ Tanto no Exemplo 01 quanto no 02 possuem erros, no exemplo 01 a variavel name de
 
 .
 
+## Resumo
+
 Em resumo, a diferença entre var, let e const é principalmente relacionada ao escopo e à capacidade de reatribuição de valores. var tem escopo de função ou global e permite reatribuição; let tem escopo de bloco e permite reatribuição; const tem escopo de bloco e não permite reatribuição.
+
+*outra diferença entre elas é o **Hoisting**, no entando esse assunto será explicado em outro note.*
